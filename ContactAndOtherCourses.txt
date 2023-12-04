@@ -9,11 +9,11 @@ Upcoming Live Classes:
 January 9, 10, 11, 2024,Java SE 17 Developer (1Z0-829) Crash Course:
 https://learning.oreilly.com/live-events/java-se-17-developer-1z0-829-crash-course/0636920079000/
 
-Tentative, not yet confirmed/scheduled:
+January 16, Modern Java Exception Handling:
+https://learning.oreilly.com/live-events/modern-java-exception-handling/0636920215950/
 
-January 16, Modern Java Exceptions
-
-January 18, Go the Right Way
+January 18, Go the Right Way:
+https://learning.oreilly.com/live-events/go-the-right-way/0790145042893/
 
 February 12, Java Generics
 
