@@ -15,6 +15,12 @@ January 16, Modern Java Exceptions
 
 January 18, Go the Right Way
 
+February 12, Java Generics
+
+February 13, Modern Java Exceptions
+
+Februrary 14, Getting Started with Java
+
 Pre-recorded Classes:
 =====================
 
